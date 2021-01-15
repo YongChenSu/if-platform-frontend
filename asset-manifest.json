@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/if-platform-frontend/static/css/main.42025442.chunk.css",
-    "main.js": "/if-platform-frontend/static/js/main.a1f1e5e3.chunk.js",
-    "main.js.map": "/if-platform-frontend/static/js/main.a1f1e5e3.chunk.js.map",
+    "main.js": "/if-platform-frontend/static/js/main.e188037a.chunk.js",
+    "main.js.map": "/if-platform-frontend/static/js/main.e188037a.chunk.js.map",
     "runtime-main.js": "/if-platform-frontend/static/js/runtime-main.17c0c419.js",
     "runtime-main.js.map": "/if-platform-frontend/static/js/runtime-main.17c0c419.js.map",
     "static/js/2.72962927.chunk.js": "/if-platform-frontend/static/js/2.72962927.chunk.js",
@@ -17,15 +17,15 @@
     "static/media/email.85bec5ee.svg": "/if-platform-frontend/static/media/email.85bec5ee.svg",
     "static/media/event_image.3994ed1c.png": "/if-platform-frontend/static/media/event_image.3994ed1c.png",
     "static/media/event_image2.34566a6b.png": "/if-platform-frontend/static/media/event_image2.34566a6b.png",
-    "static/media/facebook.9060df0b.svg": "/if-platform-frontend/static/media/facebook.9060df0b.svg",
-    "static/media/footer_bg.5691042a.svg": "/if-platform-frontend/static/media/footer_bg.5691042a.svg",
+    "static/media/facebook.6d046da2.svg": "/if-platform-frontend/static/media/facebook.6d046da2.svg",
+    "static/media/footer_bg.0f21711b.svg": "/if-platform-frontend/static/media/footer_bg.0f21711b.svg",
     "static/media/from.9eeae761.svg": "/if-platform-frontend/static/media/from.9eeae761.svg",
     "static/media/grey_background_image.1f9caf5a.png": "/if-platform-frontend/static/media/grey_background_image.1f9caf5a.png",
-    "static/media/instagram.38d8d188.svg": "/if-platform-frontend/static/media/instagram.38d8d188.svg",
-    "static/media/logo.960cd1e0.svg": "/if-platform-frontend/static/media/logo.960cd1e0.svg",
-    "static/media/logo_black.2ae6a72d.svg": "/if-platform-frontend/static/media/logo_black.2ae6a72d.svg",
+    "static/media/instagram.d547cfb1.svg": "/if-platform-frontend/static/media/instagram.d547cfb1.svg",
+    "static/media/logo.e655819f.svg": "/if-platform-frontend/static/media/logo.e655819f.svg",
+    "static/media/logo_black.3b5a008d.svg": "/if-platform-frontend/static/media/logo_black.3b5a008d.svg",
     "static/media/logo_image.11f4b182.png": "/if-platform-frontend/static/media/logo_image.11f4b182.png",
-    "static/media/logo_white.844cc4c7.svg": "/if-platform-frontend/static/media/logo_white.844cc4c7.svg",
+    "static/media/logo_white.44abb4b0.svg": "/if-platform-frontend/static/media/logo_white.44abb4b0.svg",
     "static/media/nickname.79f0859c.svg": "/if-platform-frontend/static/media/nickname.79f0859c.svg",
     "static/media/password.bce2845d.svg": "/if-platform-frontend/static/media/password.bce2845d.svg",
     "static/media/time.5f9a6b1a.svg": "/if-platform-frontend/static/media/time.5f9a6b1a.svg",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.17c0c419.js",
     "static/js/2.72962927.chunk.js",
     "static/css/main.42025442.chunk.css",
-    "static/js/main.a1f1e5e3.chunk.js"
+    "static/js/main.e188037a.chunk.js"
   ]
 }
